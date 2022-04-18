@@ -7129,12 +7129,6 @@
       "price": -10
     },
     {
-      "abr": "human\"surimi\"",
-      "category": "Raw fish",
-      "defname": "VCE_HumanSurimi",
-      "price": -10
-    },
-    {
       "abr": "soybeans",
       "category": "Vegetarian",
       "defname": "VCE_RawSoybean",
